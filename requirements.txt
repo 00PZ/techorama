@@ -5,3 +5,4 @@ torch
 transformers
 chromadb
 pypdf
+beautifulsoup4
